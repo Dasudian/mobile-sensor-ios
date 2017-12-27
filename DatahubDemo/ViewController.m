@@ -9,12 +9,12 @@
 #import <CoreMotion/CoreMotion.h>
 
 /*  instance id, 标识客户的唯一ID，请联系大数点商务support@dasudian.com获取 */
-#define INSTANCE_ID    "dsd_9HsIJEZF9c76Nh6mEy_A"
+#define INSTANCE_ID    "your_instanceID"
 /*  instance key, 与客户标识相对应的安全密钥，请联系大数点商务support@dasudian.com获取 */
-#define INSTANCE_KEY   "3438f4e7f7d5268e"
+#define INSTANCE_KEY   "your_instanceKey"
 
 /*  大数点IoT DataHub云端地址，请联系大数点商务support@dasudian.com获取 */
-#define SERVER_URL      "demo.dasudian.net"
+#define SERVER_URL      "server.example.com"
 /* 设备的名字 */
 #define CLIENT_TYPE     "iphone6"
 /* 设备的id */
