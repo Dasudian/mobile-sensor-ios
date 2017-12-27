@@ -6,7 +6,7 @@
 
 # 使用
 
-更新InstanceId, InstancKey, 服务器地址
+更新[ViewController.m](https://github.com/Dasudian/mobile-sensor-ios/blob/master/DatahubDemo/ViewController.m)文件中的INSTANCE_ID, INSTANCE_KEY和SERVER_URL
 
 ## 编译
 
